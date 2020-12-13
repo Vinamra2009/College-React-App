@@ -1,4 +1,4 @@
 A Student Portal.
 New - UI tool kit.
-Discarded - Old
+Discarded - New App
 React.SCSS.JS.
